@@ -7,7 +7,7 @@ main h3{
 }
 body{
     background:linear-gradient(to  right,#991d1d,#423fa4);
-    max-width: 1890px;
+    max-width: 2000px;
     margin: 0;
 }
 a{
@@ -19,7 +19,7 @@ a{
 }
 .navbar{
     text-align: center;
-    max-width: 1890px;
+    max-width: 2000px;
     background: linear-gradient( #363959,#3b3b3b);
     border-bottom: #797979;
     width: 100%;
@@ -64,7 +64,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width:1890px;
+    max-width: 2000px;
     width: 100%;
     max-height: 30rem;
     background-color: rgb(201, 80, 80);
@@ -106,7 +106,7 @@ a{
     box-shadow: #333;
     gap: 2rem;
     margin: 25px;
-    list-style: none;
+    
     border-radius: 20px;
 }
 .sec-info h2{
@@ -177,7 +177,7 @@ a{
 
 .footer-container{
     display: flex;
-    max-width: 1890px;
+    max-width: 2000px;
     width: 100%;
     background-color: #c9c9c976;
     height: 80px;

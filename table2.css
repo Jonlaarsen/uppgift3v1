@@ -9,7 +9,7 @@ main h3{
 }
 body{
     background:linear-gradient(to right,rgb(51, 51, 169), rgb(78, 77, 77)  );
-    max-width: 1890px;
+    max-width: 2000px;
     margin: 0;
 }
 a{
@@ -22,7 +22,7 @@ a{
 }
 .navbar{
     text-align: center;
-    max-width: 1890px;
+    max-width: 2000px;
     background: linear-gradient(#838383, #f8f8f8);
     border-bottom: #797979;
     color: #333;
@@ -64,7 +64,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width:1890px;
+    max-width:2000px;
     width: 100%;
     max-height: 30rem;
     background-color: rgb(154, 129, 129);
@@ -105,7 +105,6 @@ a{
     box-shadow: #333;
     gap: 2rem;
     margin: 25px;
-    list-style: none;
     border-radius: 20px;
 }
 .sec-info h2{
@@ -125,16 +124,9 @@ a{
                                                 
 
 }
-.info-text{
-    display: flex;
-    max-width: 50rem;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 5rem ;
+.info-text{ 
     max-height: 7rem;
     overflow: scroll;
-    padding-top: 5px;
     
 }
 .table-content{
@@ -186,7 +178,7 @@ a{
 
 .footer-container{
     display: flex;
-    max-width: 1890px;
+    max-width: 2000px;
     width: 100%;
     background-color: #838383;
     height: 80px;
