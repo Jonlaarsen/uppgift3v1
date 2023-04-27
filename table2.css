@@ -209,3 +209,10 @@ a{
     width: 70px;
     
 }
+#created-by{
+    display: flex;
+    left: 10px;
+    bottom: 0;
+    color: #ffffff91;
+    position: fixed;
+}

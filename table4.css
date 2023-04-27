@@ -214,7 +214,7 @@ a{
 #created-by{
     display: flex;
     left: 10px;
-    bottom: 5px;
+    bottom: 0;
     color: #ffffff91;
     position: fixed;
 }
